@@ -16,7 +16,7 @@ O sistema funciona via terminal e permite:
 
 ---
  
-# 🗂️ Estrutura do Projeto
+## 🗂️ Estrutura do Projeto
 
 ---
 
@@ -29,7 +29,8 @@ O sistema funciona via terminal e permite:
 
 ---
 
-# 🧠 Conceitos aplicados
+## 🧠 Conceitos aplicados
+
 - Manipulação de arquivos (open, read, write);
 - Estruturas condicionais (if, elif, else);
 - Laços de repetição (while, for);
