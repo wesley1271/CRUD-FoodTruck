@@ -43,17 +43,17 @@ O sistema funciona via terminal e permite:
 
  <img width="679" height="305" alt="main" src="https://github.com/user-attachments/assets/b0f16cf6-12b5-465f-b342-06509b797043" />
 
-<hr style="width:30%; margin:auto; border:0.5px solid #ddd;">
+<hr style="width:30%; margin:auto; border:0.2px solid #ddd;">
 
  <img width="421" height="418" alt="Read" src="https://github.com/user-attachments/assets/9648b614-a225-441f-8a82-9907286fd2aa" />
 
   
-<hr style="width:30%; margin:auto; border:0.5px solid #ddd;">
+<hr style="width:30%; margin:auto; border:0.2px solid #ddd;">
 
 <img width="446" height="422" alt="edit" src="https://github.com/user-attachments/assets/55d7a1a7-944d-4d72-928a-7a3b3bb5aba0" />
 
 
-  <hr style="width:30%; margin:auto; border:0.5px solid #ddd;">
+  <hr style="width:30%; margin:auto; border:0.2px solid #ddd;">
 
 <img width="442" height="418" alt="Delete" src="https://github.com/user-attachments/assets/f227197d-230c-46fb-b7eb-1144b8fafb7e" />
 
