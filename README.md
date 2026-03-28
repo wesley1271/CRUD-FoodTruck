@@ -41,7 +41,9 @@ O sistema funciona via terminal e permite:
 
   ## 🖼️ Imagens do Sistema
 
-  <img width="300" height="200" alt="main" src="https://github.com/user-attachments/assets/3beee56d-556d-4a33-89aa-ac784153c79e" />
+ <img width="679" height="305" alt="main" src="https://github.com/user-attachments/assets/b0f16cf6-12b5-465f-b342-06509b797043" />
+
+---
 
   <img width="300" height="200" alt="Read" src="https://github.com/user-attachments/assets/27a328ff-0a72-4556-9d1d-af15b5240eb2" />
 
