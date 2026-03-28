@@ -22,10 +22,10 @@ O sistema funciona via terminal e permite:
 
 ### 📁 projetoCRUD
 
-- Food_truck.py | Arquivo principal com toda lógica do sistema
-- pedidos.txt | Banco de dados simples (armazenamento dos pedidos)
-- nome.txt | (Arquivo auxiliar, se utilizado)
-- README.md | Documentação do projeto
+- **Food_truck.py** | Arquivo principal com toda lógica do sistema
+- **pedidos.txt** | Banco de dados simples (armazenamento dos pedidos)
+- **nome.txt** | (Arquivo auxiliar, se utilizado)
+- **README.md** | Documentação do projeto
 
 ---
 
