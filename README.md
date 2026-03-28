@@ -1,7 +1,5 @@
 # 🚚🍔 Food Truck Virtual - CRUD de Pedidos
 
----
-
 ### Sistema simples em Python para gerenciamento de pedidos de um Food Truck, utilizando conceitos fundamentais da programação como CRUD, manipulação de arquivos e estruturas de controle.
 
 ---
